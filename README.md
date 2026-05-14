@@ -114,7 +114,7 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT
-<img width="659" height="394" alt="image" src="https://github.com/user-attachments/assets/c7a43515-7e35-444e-aec7-f3b8aa9b3042" />
+<img width="648" height="386" alt="image" src="https://github.com/user-attachments/assets/9c5c7bb1-8e58-4a37-9d60-dcec9b2fd71f" />
 
 
 
